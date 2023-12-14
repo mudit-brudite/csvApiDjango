@@ -1,0 +1,4 @@
+/myenv
+/csvApi/copy-views.py
+db.sqlite3
+/csvApi/file.csv
